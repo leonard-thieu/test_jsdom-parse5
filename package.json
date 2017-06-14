@@ -1,0 +1,10 @@
+{
+  "name": "test_jsdom-parse5",
+  "version": "0.0.1",
+  "dependencies": {
+    "jsdom": "^11.0.0"
+  },
+  "devDependencies": {
+    "@types/jsdom": "^11.0.0"
+  }
+}
